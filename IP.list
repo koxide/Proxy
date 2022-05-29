@@ -6,4 +6,5 @@ DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 
-#tieba
+#zhihu
+DOMAIN-SUFFIX,zhihu.com
