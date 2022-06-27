@@ -1,7 +1,14 @@
-#weibo
+#微博
 DOMAIN-SUFFIX,api.weibo.cn
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
+
+#知乎
+DOMAIN,api.zhihu.com
+IP-CIDR,103.41.167.226/32,no-resolve
+IP-CIDR,103.41.167.234/32,no-resolve
+IP-CIDR,103.41.167.235/32,no-resolve
+IP-CIDR,103.41.167.236/32,no-resolve
